@@ -24,7 +24,7 @@ public class Lec9_Array_Trapping_Rainwater {
         //Loop
         for (int i = 0; i < n; i++){
             //WaterLevel = min(leftmax bound, rightmax bound)
-            int waterLevel = Math.max(leftmax[i], rightmax[i]);
+            int waterLevel = Math.min(leftmax[i], rightmax[i]);
             //trapped water = WaterLevel - height[i]
             trappedWater += waterLevel - height[i];
         }
