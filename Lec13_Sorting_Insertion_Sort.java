@@ -7,8 +7,7 @@ public class Lec13_Sorting_Insertion_Sort {
                 arr[prev+1] = arr[prev];
                 prev--;
             }
-            //Insertion
-            arr[prev+1] = curr;
+            //Insertionf
         }
     }
 
