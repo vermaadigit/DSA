@@ -1,7 +1,8 @@
 public class Lec38_OOPS {
     public static void main(String[] args){
         Pen p1 = new Pen();    //Created Pen Object called p1
-        p1.setColor("Blue");
+        //p1.setColor("Blue");
+        p1.color = "Black";
         System.out.println(p1.color);
         p1.setTip(5);
         System.out.println(p1.tip);
