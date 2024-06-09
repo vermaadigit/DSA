@@ -3,6 +3,11 @@ public class Lec38_OOPS {
         Pen p1 = new Pen();    //Created Pen Object called p1
         p1.setColor("Blue");
         System.out.println(p1.color);
+        p1.setTip(5);
+        System.out.println(p1.tip);
+        //p1.setColor("Yellow");
+        p1.color = "Yellow";
+        System.out.println(p1.color);
 
     }
 }
