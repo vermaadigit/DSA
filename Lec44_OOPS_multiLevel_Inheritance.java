@@ -3,6 +3,8 @@ public class Lec44_OOPS_multiLevel_Inheritance {
         Dog dobby = new Dog();
         dobby.eat();
         dobby.breathe();
+        dobby.color = "Black";
+        System.out.println("Dobby's Color is " + dobby.color);
         dobby.legs = 4;
         System.out.println(dobby.legs);
         dobby.breed = "German Sephardi";
