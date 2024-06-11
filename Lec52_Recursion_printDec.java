@@ -9,6 +9,18 @@ public class Lec52_Recursion_printDec {
         System.out.print(num + " ");
         printDec(num - 1);
     }
+
+    //Problem 2 ( Print in Increasing Order )
+
+    public static void printInc(int num) {
+        if (num == 1) {
+            System.out.print(num + " ");
+            return;
+        }
+        printInc(num - 1);
+        System.out.print(num + " ");
+
+    }
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
@@ -16,6 +28,7 @@ public class Lec52_Recursion_printDec {
         System.out.print("Enter a Number - ");
         int num = sc.nextInt();
 
-        printDec(num);
+        //printDec(num);
+        printInc(num);
     }
 }
