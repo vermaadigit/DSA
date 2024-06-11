@@ -6,6 +6,18 @@ public class Lec49_OOPS_Interfaces {
     }
 }
 
+interface Herbivore {
+
+}
+
+interface Carnivore {
+
+}
+
+class Bear implements Herbivore, Carnivore {
+
+}
+
 interface ChessPlayer {
 
     void moves();
