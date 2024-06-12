@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Lec52_Recursion_printDec {
+
+    //Problem 1 ( print in Decreasing Order )
+
     public static void printDec(int num) {
         if (num == 1) {
             System.out.println(1);
