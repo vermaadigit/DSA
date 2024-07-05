@@ -15,7 +15,8 @@ public class Lec58_Recursion_Last_Occurence
     }
     public static void main(String[] args)
     {
-        int[] arr = {8, 3, 6, 9, 5, 10, 2, 5, 3};
+        //int[] arr = {8, 3, 6, 9, 5, 10, 2, 5, 3};
+        int[] arr = {5, 5, 5, 5};
         int key = 5;
         System.out.println(lastOccurence(arr, key, arr.length-1));
     }
