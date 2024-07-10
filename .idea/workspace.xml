@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec65_DivideConquer_MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +118,7 @@
     "Application.Lec62_Recursion_removeDuplicate.executor": "Run",
     "Application.Lec63_Recursion_friendsPairing.executor": "Run",
     "Application.Lec64_Recursion_binaryString.executor": "Run",
+    "Application.Lec65_DivideConquer_MergeSort.executor": "Run",
     "Application.Lec6_Array_Kadanes.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
@@ -128,14 +130,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec64_Recursion_binaryString">
-    <configuration name="Lec61_Recursion_tilingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec61_Recursion_tilingProblem" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec65_DivideConquer_MergeSort">
     <configuration name="Lec62_Recursion_removeDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec62_Recursion_removeDuplicate" />
       <module name="DSA" />
@@ -157,6 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec65_DivideConquer_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec65_DivideConquer_MergeSort" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="DSA" />
@@ -166,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec65_DivideConquer_MergeSort" />
         <item itemvalue="Application.Lec64_Recursion_binaryString" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Lec63_Recursion_friendsPairing" />
         <item itemvalue="Application.Lec62_Recursion_removeDuplicate" />
-        <item itemvalue="Application.Lec61_Recursion_tilingProblem" />
       </list>
     </recent_temporary>
   </component>

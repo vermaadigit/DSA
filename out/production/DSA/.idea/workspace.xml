@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lec65_DivideConquer_MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vermaadigit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vermaadigit/DSA.git&quot;,
+    &quot;accountId&quot;: &quot;be8bc4f0-c986-43b5-864c-a92c1c34dd33&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fPhybNskHeF9liUx9nwvRGJsfG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array_Intro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec10_Array_buyandsellStock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec11_Sorting_Bubble_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec12_Sorting_Selection_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec13_Sorting_Insertion_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec14_Sorting_InBuilt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec15_Sorting_countingSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec16_2DArray_Intro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec17_2DArray_Spiral_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec18_2DArray_diagSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec19_2DArray_searchMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec1_Array_Largest_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec20_2DArray_searchMatrix_BestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec21_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec22_String_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec23_String_shortestPath.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec24_String_subString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec25_String_largestString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec26_String_toUpperCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec27_String_stringCompress.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec28_Bit_Manipulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec29_Bit_Manipulation_getBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec2_Array_Binary_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec30_Bit_Manipulation_setBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec31_Bit_Manipulation_clearBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec32_Bit_Manipulation_updateBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec33_Bit_Manipulation_clearLastBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec34_Bit_Manipulation_clearBitRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec35_Bit_Manipulation_checkPowerofTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec36_Bit_Manipulation_countSetBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec37_Bit_Manipulation_fastExpo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec38_OOPS (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec38_OOPS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec39_OOPS_Access_Modifier (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec39_OOPS_Access_Modifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec3_Array_Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec40_OOPS_Getters_Setters (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec40_OOPS_Getters_Setters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec41_OOPS_Constructor (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec41_OOPS_Constructor (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec41_OOPS_Constructor.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec42_OOPS_copyConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec43_OOPS_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec44_OOPS_multiLevel_Inheritance (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec44_OOPS_multiLevel_Inheritance (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec44_OOPS_multiLevel_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec45_OOPS_hierarchial_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec46_OOPS_Method_Overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec47_OOPS_Method_Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec48_OOPS_Abstract_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec49_OOPS_Interfaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec4_Array_Pair.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec50_OOPS_Static_Keyword (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec50_OOPS_Static_Keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec51_OOPS_Super_Keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec52_Recursion_printDec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec53_Recursion_Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec54_Recursion_Sum_N_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec55_Recursion_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec56_Recursion_Sorted_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec57_Recursion_First_Occurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec58_Recursion_Last_Occurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec59_Recursion_printPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec5_Array_subArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec60_Recursion_optimizedPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec61_Recursion_tilingProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec62_Recursion_removeDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec63_Recursion_friendsPairing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec64_Recursion_binaryString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec6_Array_Kadanes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec9_Array_Trapping_Rainwater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixMultiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Lec65_DivideConquer_MergeSort">
+    <configuration name="Lec62_Recursion_removeDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec62_Recursion_removeDuplicate" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec63_Recursion_friendsPairing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec63_Recursion_friendsPairing" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec64_Recursion_binaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec64_Recursion_binaryString" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec65_DivideConquer_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec65_DivideConquer_MergeSort" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lec65_DivideConquer_MergeSort" />
+        <item itemvalue="Application.Lec64_Recursion_binaryString" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Lec63_Recursion_friendsPairing" />
+        <item itemvalue="Application.Lec62_Recursion_removeDuplicate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="" />
+      <created>1713708877587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713708877587</updated>
+    </task>
+    <servers />
+  </component>
+</project>
