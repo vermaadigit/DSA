@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec66_DivideConquer_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec67_DivideConquer_SortedandRotated.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +119,7 @@
     "Application.Lec64_Recursion_binaryString.executor": "Run",
     "Application.Lec65_DivideConquer_MergeSort.executor": "Run",
     "Application.Lec66_DivideConquer_QuickSort.executor": "Run",
+    "Application.Lec67_DivideConquer_SortedandRotated.executor": "Run",
     "Application.Lec6_Array_Kadanes.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
@@ -131,14 +131,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec66_DivideConquer_QuickSort">
-    <configuration name="Lec63_Recursion_friendsPairing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec63_Recursion_friendsPairing" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec67_DivideConquer_SortedandRotated">
     <configuration name="Lec64_Recursion_binaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec64_Recursion_binaryString" />
       <module name="DSA" />
@@ -160,6 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec67_DivideConquer_SortedandRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec67_DivideConquer_SortedandRotated" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="DSA" />
@@ -169,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec67_DivideConquer_SortedandRotated" />
         <item itemvalue="Application.Lec66_DivideConquer_QuickSort" />
         <item itemvalue="Application.Lec65_DivideConquer_MergeSort" />
         <item itemvalue="Application.Lec64_Recursion_binaryString" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Lec63_Recursion_friendsPairing" />
       </list>
     </recent_temporary>
   </component>
