@@ -10,8 +10,8 @@ public class Lec70_BackTracking_Array
         }
         //Recursion
         arr[i] = value;
-        changeArr(arr, i+1, value+1);
-        arr[i] = arr[i] - 2;
+        changeArr(arr, i+1, value+1);  //Function Call Step
+        arr[i] = arr[i] - 2;    //Backtracking Step
     }
     public static void printArr(int[] arr)
     {

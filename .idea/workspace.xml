@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec70_BackTracking_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec70_BackTracking_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec70_BackTracking_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +122,7 @@
     "Application.Lec68_timeComplexity_OptimizedBubblesort.executor": "Run",
     "Application.Lec69_timeComplexity_OptimizedPower.executor": "Run",
     "Application.Lec6_Array_Kadanes.executor": "Run",
+    "Application.Lec70_BackTracking_Array.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
     "Application.test.executor": "Run",
