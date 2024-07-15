@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Lec70_BackTracking_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec70_BackTracking_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec71_BackTracking_Subsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +124,7 @@
     "Application.Lec69_timeComplexity_OptimizedPower.executor": "Run",
     "Application.Lec6_Array_Kadanes.executor": "Run",
     "Application.Lec70_BackTracking_Array.executor": "Run",
+    "Application.Lec71_BackTracking_Subsets.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
     "Application.test.executor": "Run",
@@ -133,14 +135,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec70_BackTracking_Array">
-    <configuration name="Lec67_DivideConquer_SortedandRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec67_DivideConquer_SortedandRotated" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec71_BackTracking_Subsets">
     <configuration name="Lec68_timeComplexity_OptimizedBubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec68_timeComplexity_OptimizedBubblesort" />
       <module name="DSA" />
@@ -162,6 +157,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec71_BackTracking_Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec71_BackTracking_Subsets" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="DSA" />
@@ -171,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec71_BackTracking_Subsets" />
         <item itemvalue="Application.Lec70_BackTracking_Array" />
         <item itemvalue="Application.Lec69_timeComplexity_OptimizedPower" />
         <item itemvalue="Application.Lec68_timeComplexity_OptimizedBubblesort" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Lec67_DivideConquer_SortedandRotated" />
       </list>
     </recent_temporary>
   </component>
