@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec72_BackTracking_PermtationCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec73_BackTracking_NQueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +126,7 @@
     "Application.Lec70_BackTracking_Array.executor": "Run",
     "Application.Lec71_BackTracking_Subsets.executor": "Run",
     "Application.Lec72_BackTracking_PermtationCombination.executor": "Run",
+    "Application.Lec73_BackTracking_NQueens.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
     "Application.test.executor": "Run",
@@ -136,14 +137,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec72_BackTracking_PermtationCombination">
-    <configuration name="Lec68_timeComplexity_OptimizedBubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec68_timeComplexity_OptimizedBubblesort" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec73_BackTracking_NQueens">
     <configuration name="Lec69_timeComplexity_OptimizedPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec69_timeComplexity_OptimizedPower" />
       <module name="DSA" />
@@ -172,13 +166,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec73_BackTracking_NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec73_BackTracking_NQueens" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec73_BackTracking_NQueens" />
         <item itemvalue="Application.Lec72_BackTracking_PermtationCombination" />
         <item itemvalue="Application.Lec71_BackTracking_Subsets" />
         <item itemvalue="Application.Lec70_BackTracking_Array" />
         <item itemvalue="Application.Lec69_timeComplexity_OptimizedPower" />
-        <item itemvalue="Application.Lec68_timeComplexity_OptimizedBubblesort" />
       </list>
     </recent_temporary>
   </component>

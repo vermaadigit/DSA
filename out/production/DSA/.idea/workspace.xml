@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec69_timeComplexity_OptimizedPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec73_BackTracking_NQueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +121,11 @@
     &quot;Application.Lec66_DivideConquer_QuickSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec67_DivideConquer_SortedandRotated.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec68_timeComplexity_OptimizedBubblesort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec69_timeComplexity_OptimizedPower.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec6_Array_Kadanes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec70_BackTracking_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec71_BackTracking_Subsets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec72_BackTracking_PermtationCombination.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec9_Array_Trapping_Rainwater.executor&quot;: &quot;Run&quot;,
     &quot;Application.MatrixMultiplication.executor&quot;: &quot;Run&quot;,
     &quot;Application.test.executor&quot;: &quot;Run&quot;,
@@ -132,28 +136,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lec69_timeComplexity_OptimizedPower">
-    <configuration name="Lec66_DivideConquer_QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec66_DivideConquer_QuickSort" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lec67_DivideConquer_SortedandRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec67_DivideConquer_SortedandRotated" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lec68_timeComplexity_OptimizedBubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec68_timeComplexity_OptimizedBubblesort" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec73_BackTracking_NQueens">
     <configuration name="Lec69_timeComplexity_OptimizedPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec69_timeComplexity_OptimizedPower" />
       <module name="DSA" />
@@ -161,8 +144,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="Lec70_BackTracking_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec70_BackTracking_Array" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec71_BackTracking_Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec71_BackTracking_Subsets" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec72_BackTracking_PermtationCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec72_BackTracking_PermtationCombination" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec73_BackTracking_NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec73_BackTracking_NQueens" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -170,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec73_BackTracking_NQueens" />
+        <item itemvalue="Application.Lec72_BackTracking_PermtationCombination" />
+        <item itemvalue="Application.Lec71_BackTracking_Subsets" />
+        <item itemvalue="Application.Lec70_BackTracking_Array" />
         <item itemvalue="Application.Lec69_timeComplexity_OptimizedPower" />
-        <item itemvalue="Application.Lec68_timeComplexity_OptimizedBubblesort" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Lec67_DivideConquer_SortedandRotated" />
-        <item itemvalue="Application.Lec66_DivideConquer_QuickSort" />
       </list>
     </recent_temporary>
   </component>
