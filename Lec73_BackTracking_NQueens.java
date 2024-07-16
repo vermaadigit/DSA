@@ -45,6 +45,7 @@ public class Lec73_BackTracking_NQueens
                 if (nQueens(board, row+1))
                 {
                     //Function Call
+                    return true;
                 }
                 board[row][j] = 'x';            //BackTracking Step
             }
@@ -79,7 +80,15 @@ public class Lec73_BackTracking_NQueens
             }
         }
 
-        nQueens(board, 0);
+        if (nQueens(board, 0))
+        {
+            System.out.println("Solution is Possible");
+            printBoard(board);
+        }
+        else
+        {
+            System.out.println("Solution is not Possible");
+        }
 
         System.out.println("Total ways to print N Queens : " + count);
     }
