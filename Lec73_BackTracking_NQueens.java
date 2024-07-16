@@ -33,7 +33,8 @@ public class Lec73_BackTracking_NQueens
         //Base Case
         if (row == board.length)
         {
-            printBoard(board);
+            //printBoard(board);
+            count++;
             return;
         }
         for (int j = 0; j < board.length; j++)
@@ -58,9 +59,12 @@ public class Lec73_BackTracking_NQueens
             System.out.println();
         }
     }
+
+    static int count = 0;
+
     public static void main(String[] args)
     {
-        int n = 10;
+        int n = 4;
         char[][] board = new char[n][n];
 
         for (int i = 0; i < board.length; i++)
@@ -72,5 +76,7 @@ public class Lec73_BackTracking_NQueens
         }
 
         nQueens(board, 0);
+
+        System.out.println("Total ways to print N Queens : " + count);
     }
 }
