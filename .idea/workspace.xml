@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lec73_BackTracking_NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec73_BackTracking_NQueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSA/Lec73_BackTracking_NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Lec73_BackTracking_NQueens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,14 +139,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec73_BackTracking_NQueens">
-    <configuration name="Lec69_timeComplexity_OptimizedPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec69_timeComplexity_OptimizedPower" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test">
     <configuration name="Lec70_BackTracking_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec70_BackTracking_Array" />
       <module name="DSA" />
@@ -174,13 +168,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Lec73_BackTracking_NQueens" />
         <item itemvalue="Application.Lec72_BackTracking_PermtationCombination" />
         <item itemvalue="Application.Lec71_BackTracking_Subsets" />
         <item itemvalue="Application.Lec70_BackTracking_Array" />
-        <item itemvalue="Application.Lec69_timeComplexity_OptimizedPower" />
       </list>
     </recent_temporary>
   </component>

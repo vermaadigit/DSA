@@ -28,24 +28,28 @@ public class Lec73_BackTracking_NQueens
         }
         return true;
     }
-    public static void nQueens(char[][] board, int row)
+    public static boolean nQueens(char[][] board, int row)
     {
         //Base Case
         if (row == board.length)
         {
             //printBoard(board);
             count++;
-            return;
+            return true;
         }
         for (int j = 0; j < board.length; j++)
         {
             if (isSafe(board, row, j))
             {
                 board[row][j] = 'Q';
-                nQueens(board, row+1);      //Function Call
+                if (nQueens(board, row+1))
+                {
+                    //Function Call
+                }
                 board[row][j] = 'x';            //BackTracking Step
             }
         }
+        return false;
     }
     public static void printBoard(char[][] board)
     {
