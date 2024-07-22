@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec73_BackTracking_NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec74_BackTracking_GridWays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Lec73_BackTracking_NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Lec73_BackTracking_NQueens.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,9 @@
     &quot;accountId&quot;: &quot;be8bc4f0-c986-43b5-864c-a92c1c34dd33&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -126,6 +130,7 @@
     &quot;Application.Lec70_BackTracking_Array.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec71_BackTracking_Subsets.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec72_BackTracking_PermtationCombination.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec73_BackTracking_NQueens.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec9_Array_Trapping_Rainwater.executor&quot;: &quot;Run&quot;,
     &quot;Application.MatrixMultiplication.executor&quot;: &quot;Run&quot;,
     &quot;Application.test.executor&quot;: &quot;Run&quot;,
@@ -136,21 +141,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lec73_BackTracking_NQueens">
-    <configuration name="Lec69_timeComplexity_OptimizedPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec69_timeComplexity_OptimizedPower" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lec70_BackTracking_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec70_BackTracking_Array" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec74_BackTracking_GridWays">
     <configuration name="Lec71_BackTracking_Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec71_BackTracking_Subsets" />
       <module name="DSA" />
@@ -172,13 +163,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec74_BackTracking_GridWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec74_BackTracking_GridWays" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec74_BackTracking_GridWays" />
         <item itemvalue="Application.Lec73_BackTracking_NQueens" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Lec72_BackTracking_PermtationCombination" />
         <item itemvalue="Application.Lec71_BackTracking_Subsets" />
-        <item itemvalue="Application.Lec70_BackTracking_Array" />
-        <item itemvalue="Application.Lec69_timeComplexity_OptimizedPower" />
       </list>
     </recent_temporary>
   </component>
