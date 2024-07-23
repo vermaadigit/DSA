@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Lec76_BackTracking_Sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec76_BackTracking_Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec77_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Array_Intro.executor": "Run",
     "Application.Lec10_Array_buyandsellStock.executor": "Run",
     "Application.Lec11_Sorting_Bubble_Sort.executor": "Run",
