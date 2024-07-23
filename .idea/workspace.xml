@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Lec77_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec77_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec78_ArrayList_Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +135,7 @@
     "Application.Lec75_BackTracking_GridWays_Trick.executor": "Run",
     "Application.Lec76_BackTracking_Sudoku.executor": "Run",
     "Application.Lec77_ArrayList.executor": "Run",
+    "Application.Lec78_ArrayList_Reverse.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
     "Application.test.executor": "Run",
@@ -144,14 +146,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec77_ArrayList">
-    <configuration name="Lec73_BackTracking_NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec73_BackTracking_NQueens" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec78_ArrayList_Reverse">
     <configuration name="Lec74_BackTracking_GridWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec74_BackTracking_GridWays" />
       <module name="DSA" />
@@ -180,13 +175,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec78_ArrayList_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec78_ArrayList_Reverse" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec78_ArrayList_Reverse" />
         <item itemvalue="Application.Lec77_ArrayList" />
         <item itemvalue="Application.Lec76_BackTracking_Sudoku" />
         <item itemvalue="Application.Lec75_BackTracking_GridWays_Trick" />
         <item itemvalue="Application.Lec74_BackTracking_GridWays" />
-        <item itemvalue="Application.Lec73_BackTracking_NQueens" />
       </list>
     </recent_temporary>
   </component>
