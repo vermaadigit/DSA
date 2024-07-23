@@ -134,6 +134,7 @@
     "Application.Lec74_BackTracking_GridWays.executor": "Run",
     "Application.Lec75_BackTracking_GridWays_Trick.executor": "Run",
     "Application.Lec76_BackTracking_Sudoku.executor": "Run",
+    "Application.Lec77_ArrayList.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
     "Application.test.executor": "Run",
@@ -144,7 +145,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec76_BackTracking_Sudoku">
+  <component name="RunManager" selected="Application.Lec77_ArrayList">
     <configuration name="Lec73_BackTracking_NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec73_BackTracking_NQueens" />
       <module name="DSA" />
@@ -173,8 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="Lec77_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec77_ArrayList" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -182,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec77_ArrayList" />
         <item itemvalue="Application.Lec76_BackTracking_Sudoku" />
         <item itemvalue="Application.Lec75_BackTracking_GridWays_Trick" />
         <item itemvalue="Application.Lec74_BackTracking_GridWays" />
         <item itemvalue="Application.Lec73_BackTracking_NQueens" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
