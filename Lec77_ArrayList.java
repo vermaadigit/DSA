@@ -19,5 +19,7 @@ public class Lec77_ArrayList
         System.out.println(list.get(2));
 
         System.out.println(list.contains(3));
+
+        System.out.println(list.size());
     }
 }
