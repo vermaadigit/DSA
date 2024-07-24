@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec82_ArrayList_MultiDimensionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec83_ArrayList_mostWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,6 +140,7 @@
     "Application.Lec80_ArrayList_Swap.executor": "Run",
     "Application.Lec81_ArrayList_Sorting.executor": "Run",
     "Application.Lec82_ArrayList_MultiDimensionArray.executor": "Run",
+    "Application.Lec83_ArrayList_mostWater.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
     "Application.test.executor": "Run",
@@ -150,7 +151,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec82_ArrayList_MultiDimensionArray">
+  <component name="RunManager" selected="Application.Lec83_ArrayList_mostWater">
     <configuration name="Lec79_ArrayList_Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec79_ArrayList_Maximum" />
       <module name="DSA" />
@@ -179,8 +180,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="Lec83_ArrayList_mostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec83_ArrayList_mostWater" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -188,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec83_ArrayList_mostWater" />
         <item itemvalue="Application.Lec82_ArrayList_MultiDimensionArray" />
         <item itemvalue="Application.Lec81_ArrayList_Sorting" />
         <item itemvalue="Application.Lec80_ArrayList_Swap" />
         <item itemvalue="Application.Lec79_ArrayList_Maximum" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
