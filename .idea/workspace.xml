@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec83_ArrayList_mostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec84_ArrayList_mostWater_2Pointer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,14 +151,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec83_ArrayList_mostWater">
-    <configuration name="Lec79_ArrayList_Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec79_ArrayList_Maximum" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec84_ArrayList_mostWater_2Pointer">
     <configuration name="Lec80_ArrayList_Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec80_ArrayList_Swap" />
       <module name="DSA" />
@@ -187,13 +180,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec84_ArrayList_mostWater_2Pointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec84_ArrayList_mostWater_2Pointer" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec84_ArrayList_mostWater_2Pointer" />
         <item itemvalue="Application.Lec83_ArrayList_mostWater" />
         <item itemvalue="Application.Lec82_ArrayList_MultiDimensionArray" />
         <item itemvalue="Application.Lec81_ArrayList_Sorting" />
         <item itemvalue="Application.Lec80_ArrayList_Swap" />
-        <item itemvalue="Application.Lec79_ArrayList_Maximum" />
       </list>
     </recent_temporary>
   </component>
