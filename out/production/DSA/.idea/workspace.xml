@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lec82_ArrayList_MultiDimensionArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lec77_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec77_ArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,132 +49,137 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Array_Intro.executor": "Run",
-    "Application.Lec10_Array_buyandsellStock.executor": "Run",
-    "Application.Lec11_Sorting_Bubble_Sort.executor": "Run",
-    "Application.Lec12_Sorting_Selection_Sort.executor": "Run",
-    "Application.Lec13_Sorting_Insertion_Sort.executor": "Run",
-    "Application.Lec14_Sorting_InBuilt.executor": "Run",
-    "Application.Lec15_Sorting_countingSort.executor": "Run",
-    "Application.Lec16_2DArray_Intro.executor": "Run",
-    "Application.Lec17_2DArray_Spiral_Matrix.executor": "Run",
-    "Application.Lec18_2DArray_diagSum.executor": "Run",
-    "Application.Lec19_2DArray_searchMatrix.executor": "Run",
-    "Application.Lec1_Array_Largest_Number.executor": "Run",
-    "Application.Lec20_2DArray_searchMatrix_BestCase.executor": "Run",
-    "Application.Lec21_String.executor": "Run",
-    "Application.Lec22_String_Palindrome.executor": "Run",
-    "Application.Lec23_String_shortestPath.executor": "Run",
-    "Application.Lec24_String_subString.executor": "Run",
-    "Application.Lec25_String_largestString.executor": "Run",
-    "Application.Lec26_String_toUpperCase.executor": "Run",
-    "Application.Lec27_String_stringCompress.executor": "Run",
-    "Application.Lec28_Bit_Manipulation.executor": "Run",
-    "Application.Lec29_Bit_Manipulation_getBit.executor": "Run",
-    "Application.Lec2_Array_Binary_Search.executor": "Run",
-    "Application.Lec30_Bit_Manipulation_setBit.executor": "Run",
-    "Application.Lec31_Bit_Manipulation_clearBit.executor": "Run",
-    "Application.Lec32_Bit_Manipulation_updateBit.executor": "Run",
-    "Application.Lec33_Bit_Manipulation_clearLastBit.executor": "Run",
-    "Application.Lec34_Bit_Manipulation_clearBitRange.executor": "Run",
-    "Application.Lec35_Bit_Manipulation_checkPowerofTwo.executor": "Run",
-    "Application.Lec36_Bit_Manipulation_countSetBit.executor": "Run",
-    "Application.Lec37_Bit_Manipulation_fastExpo.executor": "Run",
-    "Application.Lec38_OOPS (1).executor": "Run",
-    "Application.Lec38_OOPS.executor": "Run",
-    "Application.Lec39_OOPS_Access_Modifier (1).executor": "Run",
-    "Application.Lec39_OOPS_Access_Modifier.executor": "Run",
-    "Application.Lec3_Array_Reverse.executor": "Run",
-    "Application.Lec40_OOPS_Getters_Setters (1).executor": "Run",
-    "Application.Lec40_OOPS_Getters_Setters.executor": "Run",
-    "Application.Lec41_OOPS_Constructor (1).executor": "Run",
-    "Application.Lec41_OOPS_Constructor (2).executor": "Run",
-    "Application.Lec41_OOPS_Constructor.executor": "Debug",
-    "Application.Lec42_OOPS_copyConstructor.executor": "Run",
-    "Application.Lec43_OOPS_Inheritance.executor": "Run",
-    "Application.Lec44_OOPS_multiLevel_Inheritance (1).executor": "Debug",
-    "Application.Lec44_OOPS_multiLevel_Inheritance (2).executor": "Run",
-    "Application.Lec44_OOPS_multiLevel_Inheritance.executor": "Run",
-    "Application.Lec45_OOPS_hierarchial_Inheritance.executor": "Run",
-    "Application.Lec46_OOPS_Method_Overloading.executor": "Run",
-    "Application.Lec47_OOPS_Method_Overriding.executor": "Run",
-    "Application.Lec48_OOPS_Abstract_Class.executor": "Run",
-    "Application.Lec49_OOPS_Interfaces.executor": "Run",
-    "Application.Lec4_Array_Pair.executor": "Run",
-    "Application.Lec50_OOPS_Static_Keyword (1).executor": "Run",
-    "Application.Lec50_OOPS_Static_Keyword.executor": "Run",
-    "Application.Lec51_OOPS_Super_Keyword.executor": "Run",
-    "Application.Lec52_Recursion_printDec.executor": "Run",
-    "Application.Lec53_Recursion_Factorial.executor": "Run",
-    "Application.Lec54_Recursion_Sum_N_Number.executor": "Run",
-    "Application.Lec55_Recursion_Fibonacci.executor": "Run",
-    "Application.Lec56_Recursion_Sorted_Array.executor": "Run",
-    "Application.Lec57_Recursion_First_Occurence.executor": "Run",
-    "Application.Lec58_Recursion_Last_Occurence.executor": "Run",
-    "Application.Lec59_Recursion_printPower.executor": "Run",
-    "Application.Lec5_Array_subArray.executor": "Run",
-    "Application.Lec60_Recursion_optimizedPower.executor": "Run",
-    "Application.Lec61_Recursion_tilingProblem.executor": "Run",
-    "Application.Lec62_Recursion_removeDuplicate.executor": "Run",
-    "Application.Lec63_Recursion_friendsPairing.executor": "Run",
-    "Application.Lec64_Recursion_binaryString.executor": "Run",
-    "Application.Lec65_DivideConquer_MergeSort.executor": "Run",
-    "Application.Lec66_DivideConquer_QuickSort.executor": "Run",
-    "Application.Lec67_DivideConquer_SortedandRotated.executor": "Run",
-    "Application.Lec68_timeComplexity_OptimizedBubblesort.executor": "Run",
-    "Application.Lec69_timeComplexity_OptimizedPower.executor": "Run",
-    "Application.Lec6_Array_Kadanes.executor": "Run",
-    "Application.Lec70_BackTracking_Array.executor": "Run",
-    "Application.Lec71_BackTracking_Subsets.executor": "Run",
-    "Application.Lec72_BackTracking_PermtationCombination.executor": "Run",
-    "Application.Lec73_BackTracking_NQueens.executor": "Run",
-    "Application.Lec74_BackTracking_GridWays.executor": "Run",
-    "Application.Lec75_BackTracking_GridWays_Trick.executor": "Run",
-    "Application.Lec76_BackTracking_Sudoku.executor": "Run",
-    "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
-    "Application.MatrixMultiplication.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Array_Intro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec10_Array_buyandsellStock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec11_Sorting_Bubble_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec12_Sorting_Selection_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec13_Sorting_Insertion_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec14_Sorting_InBuilt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec15_Sorting_countingSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec16_2DArray_Intro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec17_2DArray_Spiral_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec18_2DArray_diagSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec19_2DArray_searchMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec1_Array_Largest_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec20_2DArray_searchMatrix_BestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec21_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec22_String_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec23_String_shortestPath.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec24_String_subString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec25_String_largestString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec26_String_toUpperCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec27_String_stringCompress.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec28_Bit_Manipulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec29_Bit_Manipulation_getBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec2_Array_Binary_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec30_Bit_Manipulation_setBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec31_Bit_Manipulation_clearBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec32_Bit_Manipulation_updateBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec33_Bit_Manipulation_clearLastBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec34_Bit_Manipulation_clearBitRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec35_Bit_Manipulation_checkPowerofTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec36_Bit_Manipulation_countSetBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec37_Bit_Manipulation_fastExpo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec38_OOPS (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec38_OOPS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec39_OOPS_Access_Modifier (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec39_OOPS_Access_Modifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec3_Array_Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec40_OOPS_Getters_Setters (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec40_OOPS_Getters_Setters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec41_OOPS_Constructor (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec41_OOPS_Constructor (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec41_OOPS_Constructor.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec42_OOPS_copyConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec43_OOPS_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec44_OOPS_multiLevel_Inheritance (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec44_OOPS_multiLevel_Inheritance (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec44_OOPS_multiLevel_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec45_OOPS_hierarchial_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec46_OOPS_Method_Overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec47_OOPS_Method_Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec48_OOPS_Abstract_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec49_OOPS_Interfaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec4_Array_Pair.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec50_OOPS_Static_Keyword (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec50_OOPS_Static_Keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec51_OOPS_Super_Keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec52_Recursion_printDec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec53_Recursion_Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec54_Recursion_Sum_N_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec55_Recursion_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec56_Recursion_Sorted_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec57_Recursion_First_Occurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec58_Recursion_Last_Occurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec59_Recursion_printPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec5_Array_subArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec60_Recursion_optimizedPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec61_Recursion_tilingProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec62_Recursion_removeDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec63_Recursion_friendsPairing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec64_Recursion_binaryString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec65_DivideConquer_MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec66_DivideConquer_QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec67_DivideConquer_SortedandRotated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec68_timeComplexity_OptimizedBubblesort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec69_timeComplexity_OptimizedPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec6_Array_Kadanes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec70_BackTracking_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec71_BackTracking_Subsets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec72_BackTracking_PermtationCombination.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec73_BackTracking_NQueens.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec74_BackTracking_GridWays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec75_BackTracking_GridWays_Trick.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec76_BackTracking_Sudoku.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec77_ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec78_ArrayList_Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec79_ArrayList_Maximum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec80_ArrayList_Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec81_ArrayList_Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec9_Array_Trapping_Rainwater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixMultiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Lec77_ArrayList">
-    <configuration name="Lec73_BackTracking_NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec73_BackTracking_NQueens" />
+}</component>
+  <component name="RunManager" selected="Application.Lec82_ArrayList_MultiDimensionArray">
+    <configuration name="Lec79_ArrayList_Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec79_ArrayList_Maximum" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec74_BackTracking_GridWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec74_BackTracking_GridWays" />
+    <configuration name="Lec80_ArrayList_Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec80_ArrayList_Swap" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec75_BackTracking_GridWays_Trick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec75_BackTracking_GridWays_Trick" />
+    <configuration name="Lec81_ArrayList_Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec81_ArrayList_Sorting" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec76_BackTracking_Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec76_BackTracking_Sudoku" />
+    <configuration name="Lec82_ArrayList_MultiDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec82_ArrayList_MultiDimensionArray" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec77_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec77_ArrayList" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -182,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lec77_ArrayList" />
-        <item itemvalue="Application.Lec76_BackTracking_Sudoku" />
-        <item itemvalue="Application.Lec75_BackTracking_GridWays_Trick" />
-        <item itemvalue="Application.Lec74_BackTracking_GridWays" />
-        <item itemvalue="Application.Lec73_BackTracking_NQueens" />
+        <item itemvalue="Application.Lec82_ArrayList_MultiDimensionArray" />
+        <item itemvalue="Application.Lec81_ArrayList_Sorting" />
+        <item itemvalue="Application.Lec80_ArrayList_Swap" />
+        <item itemvalue="Application.Lec79_ArrayList_Maximum" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>

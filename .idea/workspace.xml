@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec81_ArrayList_Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec82_ArrayList_MultiDimensionArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,6 +139,7 @@
     "Application.Lec79_ArrayList_Maximum.executor": "Run",
     "Application.Lec80_ArrayList_Swap.executor": "Run",
     "Application.Lec81_ArrayList_Sorting.executor": "Run",
+    "Application.Lec82_ArrayList_MultiDimensionArray.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
     "Application.test.executor": "Run",
@@ -149,14 +150,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec81_ArrayList_Sorting">
-    <configuration name="Lec78_ArrayList_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec78_ArrayList_Reverse" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec82_ArrayList_MultiDimensionArray">
     <configuration name="Lec79_ArrayList_Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec79_ArrayList_Maximum" />
       <module name="DSA" />
@@ -178,6 +172,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec82_ArrayList_MultiDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec82_ArrayList_MultiDimensionArray" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="DSA" />
@@ -187,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec82_ArrayList_MultiDimensionArray" />
         <item itemvalue="Application.Lec81_ArrayList_Sorting" />
         <item itemvalue="Application.Lec80_ArrayList_Swap" />
         <item itemvalue="Application.Lec79_ArrayList_Maximum" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Lec78_ArrayList_Reverse" />
       </list>
     </recent_temporary>
   </component>
