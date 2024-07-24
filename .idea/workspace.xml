@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec86_ArrayList_pairSum_2Pointer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec86_ArrayList_pairSum_2Pointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec86_ArrayList_pairSum_2Pointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Lec86_ArrayList_pairSum_2Pointer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Lec86_ArrayList_pairSum_2Pointer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

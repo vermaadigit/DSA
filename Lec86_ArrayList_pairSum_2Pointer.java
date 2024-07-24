@@ -10,6 +10,7 @@ public class Lec86_ArrayList_pairSum_2Pointer
         {
             if (list.get(lp) + list.get(rp) == target)
             {
+                System.out.println(list.get(lp) + "," + list.get(rp));
                 return true;
             }
             else if (list.get(lp) + list.get(rp) < target)
