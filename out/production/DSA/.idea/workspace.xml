@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec82_ArrayList_MultiDimensionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec87_ArrayList_twoPairSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,6 +139,11 @@
     &quot;Application.Lec79_ArrayList_Maximum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec80_ArrayList_Swap.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec81_ArrayList_Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec82_ArrayList_MultiDimensionArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec83_ArrayList_mostWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec84_ArrayList_mostWater_2Pointer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec85_ArrayList_pairSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec86_ArrayList_pairSum_2Pointer.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec9_Array_Trapping_Rainwater.executor&quot;: &quot;Run&quot;,
     &quot;Application.MatrixMultiplication.executor&quot;: &quot;Run&quot;,
     &quot;Application.test.executor&quot;: &quot;Run&quot;,
@@ -149,37 +154,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lec82_ArrayList_MultiDimensionArray">
-    <configuration name="Lec79_ArrayList_Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec79_ArrayList_Maximum" />
+  <component name="RunManager" selected="Application.Lec87_ArrayList_twoPairSum">
+    <configuration name="Lec83_ArrayList_mostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec83_ArrayList_mostWater" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec80_ArrayList_Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec80_ArrayList_Swap" />
+    <configuration name="Lec84_ArrayList_mostWater_2Pointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec84_ArrayList_mostWater_2Pointer" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec81_ArrayList_Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec81_ArrayList_Sorting" />
+    <configuration name="Lec85_ArrayList_pairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec85_ArrayList_pairSum" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec82_ArrayList_MultiDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec82_ArrayList_MultiDimensionArray" />
+    <configuration name="Lec86_ArrayList_pairSum_2Pointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec86_ArrayList_pairSum_2Pointer" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="Lec87_ArrayList_twoPairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec87_ArrayList_twoPairSum" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lec82_ArrayList_MultiDimensionArray" />
-        <item itemvalue="Application.Lec81_ArrayList_Sorting" />
-        <item itemvalue="Application.Lec80_ArrayList_Swap" />
-        <item itemvalue="Application.Lec79_ArrayList_Maximum" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Lec87_ArrayList_twoPairSum" />
+        <item itemvalue="Application.Lec86_ArrayList_pairSum_2Pointer" />
+        <item itemvalue="Application.Lec85_ArrayList_pairSum" />
+        <item itemvalue="Application.Lec84_ArrayList_mostWater_2Pointer" />
+        <item itemvalue="Application.Lec83_ArrayList_mostWater" />
       </list>
     </recent_temporary>
   </component>
