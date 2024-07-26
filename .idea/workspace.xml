@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Lec92_LinkedList_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec92_LinkedList_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec93_LinkedList_FindRemove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +150,7 @@
     "Application.Lec90_LinkedList_Search.executor": "Run",
     "Application.Lec91_LinkedList_recSearch.executor": "Run",
     "Application.Lec92_LinkedList_Reverse.executor": "Run",
+    "Application.Lec93_LinkedList_FindRemove.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
     "Application.test.executor": "Run",
@@ -159,14 +161,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec92_LinkedList_Reverse">
-    <configuration name="Lec89_LinkedList_Add (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec89_LinkedList_Add" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec93_LinkedList_FindRemove">
     <configuration name="Lec89_LinkedList_Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec89_LinkedList_Add" />
       <module name="DSA" />
@@ -195,13 +190,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec93_LinkedList_FindRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec93_LinkedList_FindRemove" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec93_LinkedList_FindRemove" />
         <item itemvalue="Application.Lec92_LinkedList_Reverse" />
         <item itemvalue="Application.Lec91_LinkedList_recSearch" />
         <item itemvalue="Application.Lec90_LinkedList_Search" />
         <item itemvalue="Application.Lec89_LinkedList_Add" />
-        <item itemvalue="Application.Lec89_LinkedList_Add (1)" />
       </list>
     </recent_temporary>
   </component>
