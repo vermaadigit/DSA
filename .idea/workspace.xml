@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lec90_LinkedList_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lec89_LinkedList_Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec89_LinkedList_Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Lec89_LinkedList_Add$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Lec89_LinkedList_Add$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Lec89_LinkedList_Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Lec89_LinkedList_Add.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,14 +158,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec89_LinkedList_Add">
-    <configuration name="Lec85_ArrayList_pairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec85_ArrayList_pairSum" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec90_LinkedList_Search">
     <configuration name="Lec86_ArrayList_pairSum_2Pointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec86_ArrayList_pairSum_2Pointer" />
       <module name="DSA" />
@@ -194,13 +187,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec90_LinkedList_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec90_LinkedList_Search" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec90_LinkedList_Search" />
         <item itemvalue="Application.Lec89_LinkedList_Add" />
         <item itemvalue="Application.Lec89_LinkedList_Add (1)" />
         <item itemvalue="Application.Lec87_ArrayList_twoPairSum" />
         <item itemvalue="Application.Lec86_ArrayList_pairSum_2Pointer" />
-        <item itemvalue="Application.Lec85_ArrayList_pairSum" />
       </list>
     </recent_temporary>
   </component>
