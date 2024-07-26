@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lec92_LinkedList_Reverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lec91_LinkedList_recSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec91_LinkedList_recSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,14 +159,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec91_LinkedList_recSearch">
-    <configuration name="Lec87_ArrayList_twoPairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec87_ArrayList_twoPairSum" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec92_LinkedList_Reverse">
     <configuration name="Lec89_LinkedList_Add (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec89_LinkedList_Add" />
       <module name="DSA" />
@@ -196,13 +188,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec92_LinkedList_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec92_LinkedList_Reverse" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec92_LinkedList_Reverse" />
         <item itemvalue="Application.Lec91_LinkedList_recSearch" />
         <item itemvalue="Application.Lec90_LinkedList_Search" />
         <item itemvalue="Application.Lec89_LinkedList_Add" />
         <item itemvalue="Application.Lec89_LinkedList_Add (1)" />
-        <item itemvalue="Application.Lec87_ArrayList_twoPairSum" />
       </list>
     </recent_temporary>
   </component>
