@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b6811c-b164-465d-ab0b-13eb9ba432c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec87_ArrayList_twoPairSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec89_LinkedList_Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lec89_LinkedList_Add.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +143,7 @@
     &quot;Application.Lec84_ArrayList_mostWater_2Pointer.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec85_ArrayList_pairSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec86_ArrayList_pairSum_2Pointer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec87_ArrayList_twoPairSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lec9_Array_Trapping_Rainwater.executor&quot;: &quot;Run&quot;,
     &quot;Application.MatrixMultiplication.executor&quot;: &quot;Run&quot;,
     &quot;Application.test.executor&quot;: &quot;Run&quot;,

@@ -144,7 +144,8 @@
     "Application.Lec84_ArrayList_mostWater_2Pointer.executor": "Run",
     "Application.Lec85_ArrayList_pairSum.executor": "Run",
     "Application.Lec86_ArrayList_pairSum_2Pointer.executor": "Run",
-    "Application.Lec87_ArrayList_twoPairSum.executor": "Run",
+    "Application.Lec87_ArrayList_twoPairSum.executor": "Debug",
+    "Application.Lec89_LinkedList_Add.executor": "Run",
     "Application.Lec9_Array_Trapping_Rainwater.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
     "Application.test.executor": "Run",
@@ -155,21 +156,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lec87_ArrayList_twoPairSum">
-    <configuration name="Lec83_ArrayList_mostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec83_ArrayList_mostWater" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lec84_ArrayList_mostWater_2Pointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec84_ArrayList_mostWater_2Pointer" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lec89_LinkedList_Add (1)">
     <configuration name="Lec85_ArrayList_pairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec85_ArrayList_pairSum" />
       <module name="DSA" />
@@ -191,13 +178,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec89_LinkedList_Add (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec89_LinkedList_Add" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec89_LinkedList_Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec89_LinkedList_Add" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lec89_LinkedList_Add (1)" />
+        <item itemvalue="Application.Lec89_LinkedList_Add" />
         <item itemvalue="Application.Lec87_ArrayList_twoPairSum" />
         <item itemvalue="Application.Lec86_ArrayList_pairSum_2Pointer" />
         <item itemvalue="Application.Lec85_ArrayList_pairSum" />
-        <item itemvalue="Application.Lec84_ArrayList_mostWater_2Pointer" />
-        <item itemvalue="Application.Lec83_ArrayList_mostWater" />
       </list>
     </recent_temporary>
   </component>
