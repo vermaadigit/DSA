@@ -1,5 +1,3 @@
-import javax.sound.midi.MidiFileFormat;
-
 public class Lec89_LinkedList_Add {
     public static class Node {
         int data;
@@ -79,11 +77,30 @@ public class Lec89_LinkedList_Add {
         temp.next = newNode;
     }
 
-    public int removeFirst()
+    public void removeFirst()
     {
         if (size == 0)
         {
             System.out.println("LL is empty");
+            return;
+        }
+        else if (size == 1)
+        {
+            int val = head.data;
+            head = tail = null;
+            size = 0;
+            return;
+        }
+        int val = head.data;
+        head = head.next;
+        size--;
+    }
+
+    public int removeLast()
+    {
+        if (size == 0)
+        {
+            System.out.println("LL is Empty");
             return Integer.MIN_VALUE;
         }
         else if (size == 1)
@@ -93,8 +110,15 @@ public class Lec89_LinkedList_Add {
             size = 0;
             return val;
         }
-        int val = head.data;
-        head = head.next;
+        //Prev  i = size - 2
+        Node prev = head;
+        for (int i = 0; i < size - 2; i++)
+        {
+            prev = prev.next;
+        }
+        int val = prev.next.data;
+        prev.next = null;
+        tail = prev;
         size--;
         return val;
     }
@@ -112,5 +136,8 @@ public class Lec89_LinkedList_Add {
         ll.removeFirst();
         ll.print();
         System.out.println(size);
+        ll.removeLast();
+        ll.print();
+        System.out.println(size);;
     }
 }
