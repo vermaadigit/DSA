@@ -1,3 +1,4 @@
+import java.security.PublicKey;
 import java.util.LinkedList;
 
 public class test
@@ -122,6 +123,47 @@ public class test
         return val;
     }
 
+    public int itrSearch(int key)
+    {
+        Node temp = head;
+        int i = 0;
+
+        while (temp != null)
+        {
+            if (temp.data == key)
+            {
+                return i;
+            }
+            temp = temp.next;
+            i++;
+        }
+        return -1;
+    }
+
+    public int helper(Node head, int key)
+    {
+        if (head == null)
+        {
+            return -1;
+        }
+
+        if (head.data == key)
+        {
+            return 0;
+        }
+        int idx = helper(head.next, key);
+        if (idx == -1)
+        {
+            return -1;
+        }
+        return idx + 1;
+    }
+
+    public int recSearch(int key)
+    {
+        return helper(head, key);
+    }
+
     public static void main(String[] args)
     {
         test ll = new test();
@@ -132,11 +174,20 @@ public class test
         ll.addLast(4);
         ll.add(2, 9);
 
+//        ll.print();
+//        ll.removeFirst();
+//        ll.print();
+//        ll.removeLast();
+//        ll.print();
+//        System.out.println(ll.size);
+
         ll.print();
-        ll.removeFirst();
-        ll.print();
-        ll.removeLast();
-        ll.print();
+
+//        System.out.println(ll.itrSearch(3));
+//        System.out.println(ll.itrSearch(10));
+
+        System.out.println(ll.recSearch(3));
+        System.out.println(ll.recSearch(10));
 
     }
 }
