@@ -180,6 +180,42 @@ public class Lec95_LinkedList_Part2_Cycle
         return false;
     }
 
+    public static void removeCycle()
+    {
+        //Detect Cycle
+        Node slow = head;
+        Node fast = head;
+        boolean cycle = false;
+        while (fast != null && fast.next != null)
+        {
+            slow = slow.next;
+            fast = fast.next.next;
+            if (fast == slow)
+            {
+                cycle = true;
+                break;
+            }
+        }
+
+        if (cycle == false)
+        {
+            return;
+        }
+
+        //Find meeting point
+
+        slow = head;
+        Node prev = slow;   //Last Node
+        while (slow != fast)
+        {
+            prev = fast;
+            slow = slow.next;
+            fast = fast.next;
+        }
+
+        //Remove Cycle --> last.next = null
+    }
+
     public static void main(String[] args)
     {
 //        Lec95_LinkedList_Part2_Cycle ll = new Lec95_LinkedList_Part2_Cycle();
