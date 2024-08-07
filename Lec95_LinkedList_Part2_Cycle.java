@@ -214,6 +214,7 @@ public class Lec95_LinkedList_Part2_Cycle
         }
 
         //Remove Cycle --> last.next = null
+        prev.next = null;
     }
 
     public static void main(String[] args)
@@ -221,10 +222,13 @@ public class Lec95_LinkedList_Part2_Cycle
 //        Lec95_LinkedList_Part2_Cycle ll = new Lec95_LinkedList_Part2_Cycle();
 
         head = new Node(1);
-        head.next = new Node(2);
+        Node temp = new Node (2);
+        head.next = temp;
         head.next.next = new Node(3);
-//        head.next.next.next = head;
+        head.next.next.next = temp;
 
+        System.out.println(isCycle());
+        removeCycle();
         System.out.println(isCycle());
     }
 }
